@@ -1,4 +1,4 @@
-# Raz's GitHub page
+# Raz Cuchacovich
 
 ## Hello! welcome to my GitHub page!
 
