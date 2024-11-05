@@ -17,7 +17,7 @@ I really enjoy being in nature, hiking and climbing.
 
 
 
-![Uploading WhatsApp Image 2024-11-05 at 15.35.44.jpeg…]()
+![WhatsApp Image 2024-11-05 at 15 35 44](https://github.com/user-attachments/assets/2184f5e4-7237-4003-bbd3-80c3bb423f10)
 
 
 
