@@ -7,7 +7,7 @@
 
 ---
 ## About me
-My name is Raz Cuchacovich, Im a first year Msc student in the life sceins program. I have completed my bachelors in plant sceinse at the faculty of agriculture. currenty Im doing my first rotation in Moran Shalev Benamy [lab]https://www.weizmann.ac.il/CSB/Shalev-Benami/ 
+My name is Raz Cuchacovich, Im a first year Msc student in the life sceins program. I have completed my bachelors in plant sceinse at the faculty of agriculture. currenty Im doing my first rotation in Moran Shalev Benamy [lab] https://www.weizmann.ac.il/CSB/Shalev-Benami/ 
 
 ---
 ## Hubees
