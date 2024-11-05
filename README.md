@@ -10,7 +10,7 @@
 
 My name is Raz Cuchacovich im 29 y.o and im in my first year of Msc in life sceinse. i have completed my bachelor's in plant sceinse at the faculty of agiculture in Rehovot.
 
-currently Im in my first rotation at Moran Shalev-Benami <https://www.weizmann.ac.il/CSB/Shalev-Benami/>lab
+currently Im in my first rotation at Moran Shalev-Benami <a href="https://www.weizmann.ac.il/molgen/Gur/home">lab</a><br>
 
 
 ---
